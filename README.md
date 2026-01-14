@@ -44,6 +44,7 @@ Mobile screenshots / screen recording (prototype evidence)
 🧩 Workflow / Flowchart (Prototype)
 Start → User inputs waste item → AI extracts items → AI classifies waste →
 AI suggests bin + disposal steps → User disposes correctly → Reduced pollution → End
+![EcoSort AI Flowchart](flowchart.png)
 
 🧪 Prompt Prototype (Master Prompt)
 Use the following prompt to run EcoSort AI:
